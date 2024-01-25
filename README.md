@@ -8,7 +8,7 @@ a student
 
 <a href="https://www.github.com/Augustus2011" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Augustus2011?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+![](https://komarev.com/ghpvc/?username=Augustus2011)
 ### Skills
 
 

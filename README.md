@@ -29,5 +29,5 @@ src="https://img.shields.io/github/followers/Augustus2011?logo=github&style=for-
 
 <a href="http://www.github.com/Augustus2011"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustus2011&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustus2011)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustus2011&show_icons=true&theme=dark&layout=compact&langs_count=8&hide=jupyter+notebook&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 

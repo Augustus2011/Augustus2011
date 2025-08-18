@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 a student
 ---------
 
-* ✉️  You can contact me at [kun.kerdthaisong@gmail.com](mailto:kun.kerdthaisong@gmail.com)
+* ✉️  You can contact me at [kun.kerdthaisong@gmail.com](mailto:kun.kerdthaisong@gmail.com), [kun.kerdthaisong@character-lab.com](mailto:kun.kerdthaisong@character-lab.com)
 
 <a href="https://www.github.com/Augustus2011" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Augustus2011?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
